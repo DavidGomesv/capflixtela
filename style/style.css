@@ -1,0 +1,24 @@
+#logo{
+    height: 25px;
+    margin: 0 15px  0 15px ;
+  }
+  .navbar{
+    background-color: rgba(0,0,0,.75);
+  }
+  body{
+    background-color: var(--background);
+    color: var(--fonte);
+    
+  }
+  
+  
+  :root{
+    --background-transparente: rgba(0,0,0,.75);
+    --background: #141414;
+    --vermelho-logo: #E50914;
+    --vermelho-escuro-logo: #B20710;
+    --fonte: #fff;
+  }
+  
+
+  
